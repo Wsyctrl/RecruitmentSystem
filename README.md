@@ -1,5 +1,15 @@
 # RecruitmentSystem
 
+### Team Members
+| GitHub Username | QMID (Student ID) |
+|-----------------|-------------------|
+| Wsyctrl         | 231226576         |
+| [Member2-GitHub-Username] | [Member2-Student-ID] |
+| [Member3-GitHub-Username] | [Member3-Student-ID] |
+| [Member4-GitHub-Username] | [Member4-Student-ID] |
+| [Member5-GitHub-Username] | [Member5-Student-ID] |
+| [Member6-GitHub-Username] | [Member6-Student-ID] |
+
 ### Commit Message Standards
 All commit messages must strictly follow the format: `[Type]: [Concise Description]`. Refer to the table below for valid types and usage:
 
